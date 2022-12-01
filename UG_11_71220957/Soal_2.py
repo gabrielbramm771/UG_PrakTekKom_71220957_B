@@ -1,10 +1,12 @@
-def funPalindrome(y):
+def funPalindrome():
     
-    return  ==  [::-1]
+    return  kata == kata  [::-1]
 
 x=input("Masukan Kata:")
-y=funPalindrome(y)
+y=funPalindrome
 if y:
     print("yes")
 else:
     print("no")
+
+
